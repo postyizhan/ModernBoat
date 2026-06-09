@@ -1,0 +1,26 @@
+{
+  "entity.boat.paddle_water": {
+    "category": "neutral",
+    "sounds": [
+      "modernboat:entity/boat/paddle_water1",
+      "modernboat:entity/boat/paddle_water2",
+      "modernboat:entity/boat/paddle_water3",
+      "modernboat:entity/boat/paddle_water4",
+      "modernboat:entity/boat/paddle_water5",
+      "modernboat:entity/boat/paddle_water6",
+      "modernboat:entity/boat/paddle_water7",
+      "modernboat:entity/boat/paddle_water8"
+    ]
+  },
+  "entity.boat.paddle_land": {
+    "category": "neutral",
+    "sounds": [
+      "modernboat:entity/boat/paddle_land1",
+      "modernboat:entity/boat/paddle_land2",
+      "modernboat:entity/boat/paddle_land3",
+      "modernboat:entity/boat/paddle_land4",
+      "modernboat:entity/boat/paddle_land5",
+      "modernboat:entity/boat/paddle_land6"
+    ]
+  }
+}

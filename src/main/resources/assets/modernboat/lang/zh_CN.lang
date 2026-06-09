@@ -1,0 +1,5 @@
+item.modern_oak_boat.name=橡木船
+item.modern_oak_chest_boat.name=橡木船（带箱）
+entity.modernboat.modern_boat.name=船
+entity.modernboat.modern_chest_boat.name=船（带箱）
+container.chestBoat=船舱

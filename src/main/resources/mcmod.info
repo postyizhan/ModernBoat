@@ -1,0 +1,16 @@
+[
+{
+  "modid": "modernboat",
+  "name": "Modern Boat",
+  "description": "Backport of the modern Minecraft oak boat (1.21+) to Minecraft 1.6.4. Brings dual-paddle steering, modern 128x64 textures, paddle sounds, damage tilt, multi-passenger seating and leash support back to 1.6.4. Chest boat reserved for v1.1.",
+  "version": "${version}",
+  "mcversion": "1.6.4",
+  "url": "https://github.com/postyizhan/modernboat",
+  "updateUrl": "",
+  "authorList": ["postyizhan"],
+  "credits": "Modern boat assets (c) Mojang AB. Backported on voldeloom.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

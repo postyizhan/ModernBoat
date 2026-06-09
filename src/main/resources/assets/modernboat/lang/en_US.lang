@@ -1,0 +1,5 @@
+item.modern_oak_boat.name=Oak Boat
+item.modern_oak_chest_boat.name=Oak Boat with Chest
+entity.modernboat.modern_boat.name=Boat
+entity.modernboat.modern_chest_boat.name=Boat with Chest
+container.chestBoat=Boat
